@@ -2,7 +2,7 @@
 	<div id="container">
 		<div class="header">
 			<div class="f_left message">
-				<router-link to="#">
+				<router-link to="/page/system">
 					<img src="../../assets/img/message.png" alt="" />
 				</router-link>
 			</div>
@@ -31,20 +31,33 @@
 		</div>
 		<div class="best">
 			<img src="../../assets/img/best.png" class="best_img" />
-			<img src="../../assets/img/dr.png" class="best_dr" />
-			<div class="best_jart">
-				<p class="Jart">套餐一：蒂佳婷Dr.Jart+化妆品 呵护肌肤 5件装</p>
-				<div class="new_price">
-					￥199.00
-					<s class="pre_price">
+			<router-link to="/page/detail">
+				<img src="../../assets/img/dr.png" class="best_dr" />
+				<div class="best_jart">
+					<p class="Jart">套餐一：蒂佳婷Dr.Jart+化妆品 呵护肌肤 5件装</p>
+					<div class="new_price">
+						￥199.00
+						<s class="pre_price">
 						￥499.00
 					</s>
+					</div>
+				</div>
+			</router-link>
+		</div>
+		<router-link to="/page/detail">
+			<div class="leader">
+				<img src="../../assets/img/leader.png" class="leader_img" />
+				<div class="best_jart">
+					<p class="Jart">套餐一：蒂佳婷Dr.Jart+化妆品 呵护肌肤 5件装</p>
+					<div class="new_price">
+						￥199.00
+						<s class="pre_price">
+						￥499.00
+					</s>
+					</div>
 				</div>
 			</div>
-		</div>
-		<div class="leader">
-			<img src="../../assets/img/leader.png" class="leader_img" />
-		</div>
+		</router-link>
 		<div class="footer clearfix">
 			<ul>
 				<li class="index">

@@ -31,27 +31,53 @@
 		<div class="goods">
 			<div class="pro">商品信息</div>
 			<div class="mes">
-					<span>品牌名称</span>
-					<span>花季雲</span></br>
-					<span>商品名称</span>
-					<span>花季雲</span></br>
-					<span>产地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-					<span>花季雲</span></br>
-					<span>适用对象</span>
-					<span>花季雲</span></br>
-					<span>适用肤质</span>
-					<span>中性皮肤，干性皮肤，油性皮肤，混合型皮肤，敏感性皮肤</span></br>
-					<span>卫生许可证</span>
-					<span>花季雲</span></br>
-					<span>保 证 期&nbsp;&nbsp;</span>
-					<span>花季雲</span></br>
+				<span>品牌名称</span>
+				<span>花季雲</span></br>
+				<span>商品名称</span>
+				<span>花季雲</span></br>
+				<span>产地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<span>花季雲</span></br>
+				<span>适用对象</span>
+				<span>花季雲</span></br>
+				<span>适用肤质</span>
+				<span>中性皮肤，干性皮肤，油性皮肤，混合型皮</span></br>
+				<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<span>肤，敏感性皮肤</span></br>
+				<span>卫生许可</span>
+				<span>花季雲</span></br>
+				<span>保 证 期&nbsp;&nbsp;</span>
+				<span>花季雲</span></br>
 			</div>
 		</div>
 		<div class="bg"></div>
-		<div class="">
-			
+		<div class="pingjia">
+			<div class="pingjia_top clearfix">
+				<div class="f_left">评价（100）</div>
+				<router-link to="#" class="f_right">查看全部</router-link>
+			</div>
+			<ul class="clearfix">
+				<li>
+					<div class="pingjia_img">
+						<img src="../../assets/img/touxiang@2x.png" alt="" />
+						芦苇微微
+					</div>
+					<p>最爱之前买的保湿洗面奶，之前买的，用的很舒服。</p>
+					<p class="f_right color">颜色：其他颜色</p>
+				</li>
+				<li>
+					<div class="pingjia_img">
+						<img src="../../assets/img/touxiang@2x.png" alt="" />
+						芦苇微微
+					</div>
+					<p>最爱之前买的保湿洗面奶，之前买的，用的很舒服。</p>
+					<p class="f_right color">颜色：其他颜色</p>
+				</li>
+			</ul>
 		</div>
+		<div class="bg"></div>
 		<div class="details">
+			<div>图文详情</div>
 			<img src="../../assets/img/xiangqingtu@2x.png" alt="" />
 		</div>
 		<div class="footer clearfix">

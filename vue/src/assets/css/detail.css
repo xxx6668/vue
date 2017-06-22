@@ -87,8 +87,61 @@
 	margin-right: .35rem;
 	color: #999999;
 }
+.pingjia{
+	padding: 0 .25rem;
+}
+.pingjia .pingjia_top{
+	border-bottom: 1px dashed #d7d7d7;
+	height: 1rem;
+	line-height: 1rem;
+}
+.pingjia .pingjia_top div{
+	font-size: .28rem;
+}
+.pingjia .pingjia_top a{
+	font-size: .22rem;
+	color: #4a90e2;
+}
+.pingjia ul{
+	width: 1000%;
+	
+}
+.pingjia ul li{
+	margin: .35rem 0rem;
+	 float: left;
+	 margin-right:.3rem ;
+	 width: 5.25rem;
+	 height: 2.35rem;
+	 background-color: #f8f8f8;
+	 padding: 0 .25rem;
+}
+.pingjia_img{
+	margin-top: .25rem;
+	color:#939393;
+}
+.pingjia_img img{
+	width: .6rem;
+	height: .6rem;
+	vertical-align: middle;
+	margin-right: .23rem;
+}
+.pingjia ul li p{
+	color: #d2d2d2;
+	font-size: .24rem;
+	line-height: .4rem;
+	border-bottom: 1px solid  #d7d7d7;
+}
+.pingjia ul li p{
+	line-height: .5rem;
+	border-bottom: none;
+}
 .details{
 	margin-bottom: 1rem;
+}
+.details div{
+	height: 1rem;
+	line-height:1rem;
+	padding-left: .25rem;
 }
 .details img{
 	width: 100%;

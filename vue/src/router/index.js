@@ -5,6 +5,7 @@ import home from '../components/page/home'
 import detail from '../components/page/detail'
 import register from '../components/page/register'
 import mine from '../components/page/mine'
+import system from '../components/page/system'
 Vue.use(Router)
 
 export default new Router({
@@ -33,6 +34,11 @@ export default new Router({
       path: '/page/mine',
       name: 'mine',
       component: mine
+    },
+    {
+      path: '/page/system',
+      name: 'system',
+      component: system
     }
   ]
 })
