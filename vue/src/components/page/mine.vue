@@ -8,7 +8,7 @@
 					</router-link>
 				</div>
 				<div class="message f_right">
-					<router-link to="#">
+					<router-link to="/page/system">
 						<img src="../../assets/img/message2.png" alt="" />
 					</router-link>
 				</div>
